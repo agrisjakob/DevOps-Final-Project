@@ -1,5 +1,5 @@
 # DevOps_Spring_Project
-##This is my final DevOps Project in the QA Academy. The project was conducted in a team and the original repository can be viewed here: https://github.com/stevenj2019/DevOps_Spring_Project/
+## This is my final DevOps Project in the QA Academy. The project was conducted in a team and the original repository can be viewed here: https://github.com/stevenj2019/DevOps_Spring_Project/
 ## Repositories 
 
 + [Front-end](https://github.com/spring-petclinic/spring-petclinic-angular)
